@@ -1,0 +1,123 @@
+
+
+[{
+    "id": 1,
+    "name": "Phone XL",
+    "price": 799,
+    "imageUrl": "https://picsum.photos/id/223/200/200.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Phone Mini",
+    "price": 699,
+    "imageUrl": "https://picsum.photos/id/124/200/200.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Phone Standard",
+    "price": 299,
+    "imageUrl": "https://picsum.photos/id/225/200/200.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/126/200/200.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/227/200/200.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Phone Nokia",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/228/200/200.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Phone Nokia",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/229/200/200.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Phone Samsung",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/230/200/200.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Phone Samsung",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/231/200/200.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/232/200/200.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Phone Xiaomi",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/233/200/200.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Phone Xiaomi",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/234/200/200.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/235/200/200.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/236/200/200.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/237/200/200.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/238/200/200.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/239/200/200.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/240/200/200.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/241/200/200.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Phone Special",
+    "price": 999,
+    "imageUrl": "https://picsum.photos/id/242/200/200.jpg"
+  }
+]
